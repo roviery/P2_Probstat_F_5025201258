@@ -1,10 +1,13 @@
 # P2_Probstat_F_5025201258
 
+### Soal 1
+## Soal 1c
+Terdapat yang pengaruh signifikan dalam hal kadar saturasi oksigen, sebelum dan sesudah melakukan aktivitas A. Hal ini dapat dilihat dari hasil corelation test.
 
 ## Soal 3
 ### Soal 3a
-H0: Tidak ada perbedaan pada rata-ratanya \
-H1: Ada perbedaan pada rata-ratanya
+H0: Sampel Mean tidak menunjukan adanya perbedaan pada rata-rata \
+H1: Sampel Mean menunjukan adanya perbedaan pada rata-rata 
 
 
 ## Soal 4
