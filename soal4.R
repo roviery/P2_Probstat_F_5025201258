@@ -11,4 +11,5 @@ ggboxplot(my_data, x = "Group", y = "Length",
 model1 <- aov(Length~factor(Group), data=my_data)
 summary(model1)
 
-TukeyHSD(model1)
+tukey.test <- TukeyHSD(model1)
+plot(tukey.test)
